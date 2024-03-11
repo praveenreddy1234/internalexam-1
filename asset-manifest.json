@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internalexam-1/static/css/main.db62923b.css",
+    "main.js": "/internalexam-1/static/js/main.0211e765.js",
+    "static/js/453.1b6cbde4.chunk.js": "/internalexam-1/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/internalexam-1/index.html",
+    "main.db62923b.css.map": "/internalexam-1/static/css/main.db62923b.css.map",
+    "main.0211e765.js.map": "/internalexam-1/static/js/main.0211e765.js.map",
+    "453.1b6cbde4.chunk.js.map": "/internalexam-1/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.0211e765.js"
+  ]
+}
